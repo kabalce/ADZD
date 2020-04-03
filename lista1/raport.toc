@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Zadanie 1}{2}
+\contentsline {section}{\numberline {2}Zadanie 2}{3}
+\contentsline {section}{\numberline {3}Zadanie 3}{3}
+\contentsline {section}{\numberline {4}Zadanie 4}{4}
+\contentsline {paragraph}{a}{4}
+\contentsline {paragraph}{b}{4}
